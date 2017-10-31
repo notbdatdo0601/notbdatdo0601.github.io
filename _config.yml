@@ -38,6 +38,13 @@ project_section:
       featured_image: "assets/img/mountains.jpg"
       url: http://tests.com
       leftAligned: false
+    - name: Data Analytics Final Project
+      description: >
+       Analyze people
+      featured_skills: none
+      featured_image: "assets/img/skate.jpg"
+      url: http://tests.com
+      leftAligned: true
 
 
 ########ADVANCE##############
