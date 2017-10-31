@@ -6,8 +6,8 @@
 
 # General Information
 user:
-  name: John Doe
-  title: Software Developer
+  name: Anna Khachaturova
+  title: Designer - Programmer - Student
   email: anon@anon.com
   twitter: lorem_ipsum
   github:  lorem_ipsum
@@ -19,17 +19,16 @@ about:
     Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
   
   
-  
 
 # Your projects
 project_section:
   title: Featured Projects
   projects:
-    - name: Something 1
+    - name: HackWITus Poster that should be done soooooonnnnn
       description: >
         Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-      featured_skills: kotlin
-      featured_image: "assets/img/mountains.jpg"
+      featured_skills: Photoshop CS6
+      featured_image: "assets/img/anna.png"
       url: http://tests.com
       leftAligned: true
     - name: Something 2
